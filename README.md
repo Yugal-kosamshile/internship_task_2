@@ -18,3 +18,4 @@ This project is a simple web page created using HTML and CSS. It showcases inter
 
 ## Credits
 - Developed by Yugal Y. Kosamshile.
+![Screenshot 2024-04-18 103350](https://github.com/Yugal-kosamshile/internship_task_2/assets/140834062/7ba57d04-52ef-4631-a76b-291efd65efa2)
