@@ -16,8 +16,5 @@ This project is a simple web page created using HTML and CSS. It showcases inter
 3. Navigate through sections and internship details.
 4. Use the contact form for inquiries.
 
-## Contributing
-Contributions welcome! Fork the repository, make changes, and submit a pull request.
-
 ## Credits
 - Developed by Yugal Y. Kosamshile.
